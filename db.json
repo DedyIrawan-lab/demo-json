@@ -1,12 +1,12 @@
 {
-    "users":[
+    "Data Pesawat":[
         {
-            "ICAO Addr":"8A003C",
+            "ICAOAddr":"8A003C",
             "Airline":"Garuda Indonesia",
             "Operator":"Garuda Indonesia",
             "Model":"A333",
             "Tipe Pesawat":"Airbus A330-341",
-            "Mode-S id":"8A003C"
+            "Mode-Sid":"8A003C"
         },
         {
             "ICAO Addr":"8A0040",
@@ -14,7 +14,7 @@
             "Operator":"Citilink",
             "Model":"B735",
             "Tipe Pesawat":"Boeing 737-5U3",
-            "Mode-S id":"8A0040"
+            "Mode-Sid":"8A0040"
         },
         {
             "ICAO Addr":"8A01C1",
@@ -22,10 +22,10 @@
             "Operator":"Garuda Indonesia",
             "Model":"B738",
             "Tipe Pesawat":"Boeing 737-8AS",
-            "Mode-S id":"8A01C1"
+            "Mode-Sid":"8A01C1"
         }
     ],
-    "Mode S":[
+    "Data Mode-S":[
         {
             "id":"8A003C",
             "name":"Garuda Indonesia",
