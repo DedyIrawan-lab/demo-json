@@ -1,0 +1,45 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"Dedy",
+            "lastName":"Irawan",
+            "email":"ir.dedy@students.itb.ac.id",
+            "age":35,
+            "companyId":"1"
+        },
+        {
+            "id":"2",
+            "firstName":"Candra",
+            "lastName":"Setiawan",
+            "email":"candra@students.itb.ac.id",
+            "age":45,
+            "companyId":"2"
+        },
+        {
+            "id":"3",
+            "firstName":"Hidayat",
+            "lastName":"Ade",
+            "email":"ade@students.itb.ac.id",
+            "age":25,
+            "companyId":"3" 
+        }
+    ],
+    "companies":[
+        {
+            "id":"1",
+            "name":"BPPT",
+            "description":"Badan Pengkajian dan Penerapan Teknologi (BPPT) adalah Lembaga Pemerintah Non-Kementerian yang berada dibawah koordinasi Kementerian Riset, Teknologi dan Pendidikan Tinggi yang mempunyai tugas melaksanakan tugas pemerintahan di bidang pengkajian dan penerapan teknologi."
+        },
+        {
+            "id":"2",
+            "name":"UNSRI",
+            "description":"Menjadi Perguruan Tinggi terkemuka dan berbasis riset yang unggul dalam berbagai bidang ilmu, teknologi, dan seni pada tahun 2025."
+        },
+        {
+            "id":"3",
+            "name":"UPI",
+            "description":"Universitas Pendidikan Indonesia didirikan pada tanggal 20 Oktober 1954 di Bandung, diresmikan oleh Menteri Pendidikan Pengajaran Mr. Muhammad Yamin. Semula bernama Perguruan Tinggi Pendidikan Guru (PTPG), didirikan dengan latar belakang sejarah pertumbuhan bangsa, yang menyadari bahwa upaya mendidik dan mencerdaskan bangsa merupakan bagian penting dalam mengisi kemerdekaan. Beberapa alasan didirikannya PTPG antara lain: Pertama, setelah Indonesia mencapai kemerdekaannya, bangsa Indonesia sangat haus pendidikan. Kedua, perlunya disiapkan guru yang bermutu dan bertaraf universitas untuk meningkatkan kualitas pendidikan yang akan merintis terwujudnya masyarakat yang sejahtera." 
+        }
+    ]
+}
