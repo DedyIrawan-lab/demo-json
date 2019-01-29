@@ -5,39 +5,42 @@
             "Airline":"Garuda Indonesia",
             "Model":"A333",
             "Tipe-Pesawat":"Airbus A330-341",
-            "Mode-Sid":"8A003C"
+            "Mode-Sid":"1"
         },
         {
             "id:":"2",
             "Airline":"Citilink",
             "Model":"B735",
             "Tipe-Pesawat":"Boeing 737-5U3",
-            "Mode-Sid":"8A0040"
+            "Mode-Sid":"2"
         },
         {
             "id:":"3",
             "Airline":"Garuda Indonesia",
             "Model":"B738",
             "Tipe-Pesawat":"Boeing 737-8AS",
-            "Mode-Sid":"8A01C1"
+            "Mode-Sid":"2"
         }
     ],
     "DataMode-S":[
         {
             "id":"1",
             "Mode-S":"8A003C",
+            "ICAOaddr":"8A003C",
             "name":"Garuda Indonesia",
             "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno. Pada tahun 2007, maskapai ini bersama dengan maskapai Indonesia lainnya (termasuk anak perusahaan Garuda Indonesia, Citilink), dilarang terbang menuju Eropa karena kejadian yang menimpa pesawat Garuda Indonesia nomor penerbangan 200."
         },
         {
             "id":"2",
             "Mode-Sid":"8A0040",
+            "ICAOaddr":"8A0040",
             "name":"Garuda Indonesia",
             "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno. Pada tahun 2007, maskapai ini bersama dengan maskapai Indonesia lainnya (termasuk anak perusahaan Garuda Indonesia, Citilink), dilarang terbang menuju Eropa karena kejadian yang menimpa pesawat Garuda Indonesia nomor penerbangan 200."
         },
         {
             "id":"3",
             "Mode-Sid":"8A01C1",
+            "ICAOaddr":"8A01C1",
             "name":"Garuda Indonesia",
             "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno. Pada tahun 2007, maskapai ini bersama dengan maskapai Indonesia lainnya (termasuk anak perusahaan Garuda Indonesia, Citilink), dilarang terbang menuju Eropa karena kejadian yang menimpa pesawat Garuda Indonesia nomor penerbangan 200."
         }
