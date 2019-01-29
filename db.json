@@ -2,27 +2,21 @@
     "DataPesawat":[
         {
             "id:":"1",
-            "ICAOAddr":"8A003C",
             "Airline":"Garuda Indonesia",
-            "Operator":"Garuda Indonesia",
             "Model":"A333",
             "Tipe-Pesawat":"Airbus A330-341",
             "Mode-Sid":"8A003C"
         },
         {
             "id:":"2",
-            "ICAOAddr":"8A0040",
             "Airline":"Citilink",
-            "Operator":"Citilink",
             "Model":"B735",
             "Tipe-Pesawat":"Boeing 737-5U3",
             "Mode-Sid":"8A0040"
         },
         {
             "id:":"3",
-            "ICAOAddr":"8A01C1",
             "Airline":"Garuda Indonesia",
-            "Operator":"Garuda Indonesia",
             "Model":"B738",
             "Tipe-Pesawat":"Boeing 737-8AS",
             "Mode-Sid":"8A01C1"
