@@ -1,45 +1,136 @@
 {
     "DataPesawat":[
         {
-            "id:":1,
+            "id":1,
+            "ICAOaddr":"8A003C",
             "Airline":"Garuda Indonesia",
             "Model":"A333",
             "Tipe-Pesawat":"Airbus A330-341"
         },
         {
-            "id:":2,
+            "id":2,
+            "ICAOaddr":"8A0040",
             "Airline":"Citilink",
             "Model":"B735",
             "Tipe-Pesawat":"Boeing 737-5U3"
         },
         {
-            "id:":3,
+            "id":3,
+            "ICAOaddr":"8A01C1",
             "Airline":"Garuda Indonesia",
             "Model":"B738",
             "Tipe-Pesawat":"Boeing 737-8AS"
+        },
+        {
+            "id":4,
+            "ICAOaddr":"750081",
+            "Airline":"Malasiya Airlines",
+            "Model":"B772",
+            "Tipe-Pesawat":"Boeing 777-2H6"
+        },
+        {
+            "id":5,
+            "ICAOaddr":"7500D2",
+            "Airline":"Royal Malasian Air Forces",
+            "Model":"C130",
+            "Tipe-Pesawat":"Lockheed C-130H Hercules"
+        },
+        {
+            "id":6,
+            "ICAOaddr":"7500D7",
+            "Airline":"Royal Malasian Air Forces",
+            "Model":"B737",
+            "Tipe-Pesawat":"Boeing 737-7H6 BBJ"
+        },
+        {
+            "id":7,
+            "ICAOaddr":"76CCC6",
+            "Airline":"Singapore Airlines Cargo",
+            "Model":"B744",
+            "Tipe-Pesawat":"Boeing 747-412F"
+        },
+        {
+            "id":8,
+            "ICAOaddr":"76CD61",
+            "Airline":"Singapore Airlines",
+            "Model":"A388",
+            "Tipe-Pesawat":"Airbus A380-841"
+        },
+        {
+            "id":9,
+            "ICAOaddr":"7C07AD",
+            "Airline":"University of South Australia",
+            "Model":"C172",
+            "Tipe-Pesawat":"Cessna 172S Skyhawk SP"
+        },
+        {
+            "id":10,
+            "ICAOaddr":"7C166D",
+            "Airline":"Australian Helicopters",
+            "Model":"B412",
+            "Tipe-Pesawat":"Bell 412EP"
         }
     ],
     "DataMode-S":[
         {
             "id":"1",
             "Mode-S":"8A003C",
-            "ICAOaddr":"8A003C",
             "name":"Garuda Indonesia",
-            "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno. Pada tahun 2007, maskapai ini bersama dengan maskapai Indonesia lainnya (termasuk anak perusahaan Garuda Indonesia, Citilink), dilarang terbang menuju Eropa karena kejadian yang menimpa pesawat Garuda Indonesia nomor penerbangan 200."
+            "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno."
         },
         {
             "id":"2",
             "Mode-Sid":"8A0040",
-            "ICAOaddr":"8A0040",
             "name":"Garuda Indonesia",
-            "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno. Pada tahun 2007, maskapai ini bersama dengan maskapai Indonesia lainnya (termasuk anak perusahaan Garuda Indonesia, Citilink), dilarang terbang menuju Eropa karena kejadian yang menimpa pesawat Garuda Indonesia nomor penerbangan 200."
+            "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno."
         },
         {
             "id":"3",
             "Mode-Sid":"8A01C1",
-            "ICAOaddr":"8A01C1",
             "name":"Garuda Indonesia",
-            "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno. Pada tahun 2007, maskapai ini bersama dengan maskapai Indonesia lainnya (termasuk anak perusahaan Garuda Indonesia, Citilink), dilarang terbang menuju Eropa karena kejadian yang menimpa pesawat Garuda Indonesia nomor penerbangan 200."
+            "description":"Garuda Indonesia (PT Garuda Indonesia (Persero) Tbk; IDX: GIAA) adalah maskapai penerbangan nasional Indonesia. Garuda adalah nama wahana tunggangan Dewa Wisnu dalam mitologi India kuno."
+        },
+        {
+            "id":"4",
+            "Mode-Sid":"750081",
+            "name":"Malaysia Airlines",
+            "description":"Malaysia Airlines adalah maskapai penerbangan nasional Malaysia yang melayani berbagai rute domestik dan internasional dari pusat operasinya di Kuala Lumpur International Airport."
+        },
+        {
+            "id":"5",
+            "Mode-Sid":"7500D2",
+            "name":"Royal Malaysian Air Forces",
+            "description":"Angkatan Udara Malaysia adalah cabang Angkatan Tentera Malaysia yang bertanggungjawab atas operasi dan pertahanan wilayah udara Malaysia. Tentera Udara Diraja Malaysia didirikan pada tahun 1958 sebagai Tentera Udara Persekutuan Malaya."
+        },
+        {
+            "id":"6",
+            "Mode-Sid":"7500D7",
+            "name":"Royal Malaysian Air Forces",
+            "description":"Angkatan Udara Malaysia adalah cabang Angkatan Tentera Malaysia yang bertanggungjawab atas operasi dan pertahanan wilayah udara Malaysia. Tentera Udara Diraja Malaysia didirikan pada tahun 1958 sebagai Tentera Udara Persekutuan Malaya."
+        },
+        {
+            "id":"7",
+            "Mode-Sid":"76CCC6",
+            "name":"Singapore Airlines Cargo",
+            "description":"Singapore Airlines Cargo adalah maskapai penerbangan kargo yang berbasis di Singapura. Maskapai penerbangan ini merupakan anak perusahaan dari Singapore Airlines dan didirikan pada tahun 2001. SIA Cargo mengoperasikan 13 pesawat kargo dan mengendalikan semua pesawat Singapore Airlines."
+        },
+        {
+            "id":"8",
+            "Mode-Sid":"76CD61",
+            "name":"Singapore Airlines",
+            "description":"Singapore Airlines adalah maskapai penerbangan nasional Singapura. Kode IATA dari Singapore Airlines adalah SQ sedangkan Kode ICAO nya adalah SIA. Singapore Airlines adalah salah satu maskapai terbaik dan tersukses di Asia dengan penerbangan ke Eropa, Amerika Utara, serta Asia dan Australia."
+        },
+        {
+            "id":"9",
+            "Mode-Sid":"7C07AD",
+            "name":"University of South Australia",
+            "description":"The University of South Australia (UniSA) is a public research university in the Australian state of South Australia. It is a founding member of the Australian Technology Network of universities, and is the largest university in South Australia with almost 32,000 students."
+        },
+        {
+            "id":"10",
+            "Mode-Sid":"7C166D",
+            "name":"Babcock MCS Australasia",
+            "description":"Babcock Mission Critical Services Australasia, formerly Australian Helicopters, is an Australian helicopter operator serving the Government, EMS, Transport & Television markets."
         }
     ]
 }
