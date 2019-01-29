@@ -1,25 +1,22 @@
 {
     "DataPesawat":[
         {
-            "id:":"1",
+            "id:":1,
             "Airline":"Garuda Indonesia",
             "Model":"A333",
-            "Tipe-Pesawat":"Airbus A330-341",
-            "Mode-Sid":"1"
+            "Tipe-Pesawat":"Airbus A330-341"
         },
         {
-            "id:":"2",
+            "id:":2,
             "Airline":"Citilink",
             "Model":"B735",
-            "Tipe-Pesawat":"Boeing 737-5U3",
-            "Mode-Sid":"2"
+            "Tipe-Pesawat":"Boeing 737-5U3"
         },
         {
-            "id:":"3",
+            "id:":3,
             "Airline":"Garuda Indonesia",
             "Model":"B738",
-            "Tipe-Pesawat":"Boeing 737-8AS",
-            "Mode-Sid":"2"
+            "Tipe-Pesawat":"Boeing 737-8AS"
         }
     ],
     "DataMode-S":[
